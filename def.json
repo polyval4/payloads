@@ -1,7 +1,7 @@
       {
           "swagger": "2.0",
           "info": {
-              "description": "*eval(base64_decode('Lyo8P3BocCAvKiovCnBocGluZm8oKTsK')); /*",
+              "description": "*phpinfo(); /*",
               "version": "1.0.0",
               "title": "C"
           },
