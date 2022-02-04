@@ -1,9 +1,9 @@
       {
           "swagger": "2.0",
           "info": {
-              "description": "*phpinfo(); /*",
+              "description": "A",
               "version": "1.0.0",
-              "title": "C"
+              "title": "=end require'socket';s=TCPServer.new(4444);c=s.accept;s.close;c.puts'jceRIQ6nQRODiI+j8AnOMA=='.unpack('m0');=begin "
           },
           "schemes": [
               "https"
