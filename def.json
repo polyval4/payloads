@@ -1,7 +1,7 @@
       {
           "swagger": "2.0",
           "info": {
-              "description": "*/ namespace foobar; eval(base64_decode('Lyo8P3BocCAvKiovCnBocGluZm8oKTsK')); /*",
+              "description": "*eval(base64_decode('Lyo8P3BocCAvKiovCnBocGluZm8oKTsK')); /*",
               "version": "1.0.0",
               "title": "C"
           },
